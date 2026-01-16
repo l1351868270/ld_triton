@@ -45,5 +45,7 @@ triton ops
 
 [pipeline_parallel](https://github.com/l1351868270/ld_triton/blob/main/docs/distributed/pipeline_parallel.md)
 
+[PyTorch Symmetric Memory](https://github.com/l1351868270/ld_triton/blob/main/docs/distributed/symmetric_memory.md)
+
 ## models
 [qwen](https://github.com/l1351868270/ld_triton/blob/main/docs/model/qwen.md)
