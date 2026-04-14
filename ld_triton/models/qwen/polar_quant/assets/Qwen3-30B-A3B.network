@@ -1,4 +1,5 @@
-Qwen3MoeModel(
+Qwen3MoeForCausalLM(
+  (model): Qwen3MoeModel(
     (embed_tokens): Embedding(151936, 2048)
     (layers): ModuleList(
       (0-47): 48 x Qwen3MoeDecoderLayer(
