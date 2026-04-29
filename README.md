@@ -42,6 +42,8 @@ triton ops
 
 [rkl_divergence](https://github.com/l1351868270/ld_triton/blob/main/docs/ops/rkl_divergence.md)
 
+[group_rkl_divergence](https://github.com/l1351868270/ld_triton/blob/main/docs/ops/group_rkl_divergence.md)
+
 ## distributed
 [data_parallel](https://github.com/l1351868270/ld_triton/blob/main/docs/distributed/data_parallel.md)
 
