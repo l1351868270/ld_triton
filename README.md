@@ -40,6 +40,8 @@ triton ops
 
 [submcon3d](https://github.com/l1351868270/ld_triton/blob/main/docs/ops/conv2d.md)
 
+[rkl_divergence](https://github.com/l1351868270/ld_triton/blob/main/docs/ops/rkl_divergence.md)
+
 ## distributed
 [data_parallel](https://github.com/l1351868270/ld_triton/blob/main/docs/distributed/data_parallel.md)
 
